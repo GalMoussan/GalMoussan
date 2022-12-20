@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GalMoussan
-- 👀 I’m interested in computer science and software programming. 
-- 🌱 I’m currently working with React, C and how to build chrome extensions.
-- 💞️ I’m looking to collaborate on any work-related subjects, I have lots of fresh ideas to share and collaborate on.
+- 👀 I’m interested in web development and computer science. 
+- 🌱 Working in React, React Native and mastering javacritpt.
+- 💞️ Collaboration on any work-related subjects, are more than welcome!  I have lots of fresh ideas to share and collaborate on.
 - 📫 How to reach me - through here, through Discord: Gal Moussan#8007 , through facebook : Gal Moussan.
 
 <!---
